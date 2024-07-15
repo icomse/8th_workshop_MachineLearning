@@ -2,7 +2,8 @@
 
 ### Session 1
 
-[Presentation on Data Standards and Usage](5.1.Data.pptx)
+[Application of machine learning to molecular science: A test case of machine learning interatomic potentials
+]
 
 ### Session 2 
 Wrap up and Q\&A
