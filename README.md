@@ -1,2 +1,18 @@
-# 8th_workshop_MachineLearning
-Repository for 8th i-CoMSE Workshop in Machine Learning for Molecular Science
+# Repository of Material for the 5th i-CoMSE Workshop: Machine Learning for Molecular Science
+### Dates: July 22-26, 2024
+
+### Requirements:
+[See the following link for setting up software](Day_1/settingup.md)
+
+### Workshop Material
+
+| Session             |   Description and links      |
+|---------------------|---------------------|
+| Monday    | [Introduction of Machine Learning Concepts](Day_1/README.md)           |              
+| Tuesday   | [Ensemble Methods and Interpretability ](Day_2/README.md)        |                
+| Wednesday | [Unsupervised Learning](Day_3/README.md)                    |        
+| Thursday | [Deep Learning](Day_4/README.md)                |               
+| Friday    | [Dealing with Data and Wrap-up](Day_5/README.md)     	      	    |         
+
+### Post-workshop
+[Step to learn more after the workshop](nextsteps.md)
