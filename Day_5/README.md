@@ -1,9 +1,8 @@
-## Data Standards and Usage
+## Applications of machine learning to molecular science
 
 ### Session 1
 
-[Application of machine learning to molecular science: A test case of machine learning interatomic potentials
-]
+[A test case of machine learning interatomic potentials]
 
 ### Session 2 
 Wrap up and Q\&A
