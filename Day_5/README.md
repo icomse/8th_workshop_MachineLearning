@@ -1,4 +1,4 @@
-## Applications of machine learning to molecular science
+## Applications of Machine Learning to Molecular Science
 
 ### Session 1
 
