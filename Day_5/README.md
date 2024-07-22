@@ -2,7 +2,7 @@
 
 ### Session 1
 
-[A test case of machine learning interatomic potentials]
+Application of machine learning to molecular science: Test case of machine learning interatomic potentials. Leads: Dr. Amit Gupta (Research Associate, Aerospace Engineering and Mechanics) and Ilia Nikiforov (Research Associate, Aerospace Engineering and Mechanics) 
 
 ### Session 2 
-Wrap up and Q\&A
+Wrap up and "Ask Us Anything"
