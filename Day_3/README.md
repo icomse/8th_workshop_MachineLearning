@@ -1,13 +1,11 @@
-## Unsupervised Learning and Data Representation
+## Deep Architectures
 
-### Session 1
+### Session 1: Dr. Yamil Colon
 
-
-### Session 2
-
-
-### Session 3
+### Session 2: Dr. Yamil Colon
 
 
-### Session 4
+### Session 3: Dr. Yamil Colon
+
+### Session 4: Keynote Talk: Dr. Ellad Tadmor
 
