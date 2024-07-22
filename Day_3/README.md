@@ -10,7 +10,7 @@ Learning Curves ([Python Notebook](Learning_Curves.ipynb))
 
 ### Session 2: Dr. Yamil Colon
 
-Featurization ([Python Notebook](Featurization.ipynb])
+Featurization ([Python Notebook](Featurization.ipynb))
 
 - Describing chemistry and characteristics
 - One-hot encodings
@@ -19,7 +19,7 @@ Featurization ([Python Notebook](Featurization.ipynb])
 
 ### Session 3: Dr. Yamil Colon
 
-Active Learning in ML ([Python Notebook](AL_in_ML.ipynb))
+Active Learning in ML ([Python Notebook](AL_with_GPs.ipynb))
 - Uncertainty estimates
 - GPs
 
