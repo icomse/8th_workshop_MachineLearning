@@ -17,4 +17,3 @@
 ### Session 4 (Dr. Michael Shirts)
 * Data and Validation in Machine Learning ([pdf](Session4_Validation.pdf))
 * [Python notebook for cross-validation](Validation.ipynb) (Jupyter notebook)
-* [Python notebook for data cleaning and imputation](Cleaning_Imputation.ipynb) (Jupyter notebook)
