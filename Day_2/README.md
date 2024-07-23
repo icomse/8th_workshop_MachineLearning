@@ -10,7 +10,7 @@ Decision Trees and Random Forests ([Python Notebook](RandomForests.ipynb)) ([pdf
 Introduction to Neural Networks ([Python Notebook](Introduction_to_Neural_Networks.ipynb)) ([pdf](<Introduction to Neural Networks.pdf>))
 
 ### Session 3: Dr. Yamil Colon
-Introduction to Neural Networks ([Python Notebook](Introduction_to_Neural_Networks.ipynb))
+Introduction to Neural Networks ([Python Notebook](Introduction_to_Neural_Networks.ipynb)) (continuation of [pdf](<Introduction to Neural Networks.pdf>) above)
 
 ### Session 4: Dr. Sapna Sarupria and Team
 
