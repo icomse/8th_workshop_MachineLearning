@@ -2,7 +2,7 @@
 
 ### Session 1
 * Introduction to workshop (Dr. Sapna Sarupria)
-* Why ML for Molecules? (Dr. Yamil Colon)
+* Why ML for Molecules? (Dr. Yamil Colon) ([pdf](Machine_Learning_in_Molecular_Sciences.pdf))
 * Introduction to computational framework (Dr. Eric Jankowski)
 * Some definitions and principles in ML (Dr. Michael Shirts) ([pdf](Session1_Principles_of_ML.pdf))
 
