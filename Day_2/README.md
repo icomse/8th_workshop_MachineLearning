@@ -2,7 +2,7 @@
 
 ### Session 1: Dr. Michael Shirts
 
-[Python notebook for data cleaning and imputation](Cleaning_Imputation.ipynb) (Jupyter notebook)
+Data cleaning and imputation ([Python notebook](Cleaning_Imputation.ipynb)) 
 
 Decision Trees and Random Forests ([Python Notebook](RandomForests.ipynb))
 
