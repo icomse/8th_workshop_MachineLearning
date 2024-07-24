@@ -12,6 +12,6 @@ Introduction to Neural Networks ([Python Notebook](Introduction_to_Neural_Networ
 ### Session 3: Dr. Yamil Colon
 Introduction to Neural Networks ([Python Notebook](Introduction_to_Neural_Networks.ipynb)) (continuation of [pdf](<Introduction to Neural Networks.pdf>) above)
 
-### Session 4: Dr. Sapna Sarupria and Team
+### Session 4: Dr. Sapna Sarupria
 
-DEI EmPower Discussion
+DEI EmPower Discussion ([pdf](2024_ML_iCOMSEPowerHour.pdf))
