@@ -1,4 +1,4 @@
-# Repository of Material for the 5th i-CoMSE Workshop: Machine Learning for Molecular Science
+# Repository of Material for the 8th i-CoMSE Workshop: Machine Learning for Molecular Science
 ### Dates: July 22-26, 2024
 
 ### Requirements:
